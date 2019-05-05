@@ -1,4 +1,4 @@
-
+###this is a sollution I developed at work to score and rank records for a project, I dummied the sensitive parts
 
 import numpy as np
 import pandas as pd
